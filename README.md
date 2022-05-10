@@ -6,4 +6,10 @@
 
 # What is it?
 
+Droid Shooter is one of the turorial game from Unity known as **FPS Microgame**. But since its containing droid so i name it droid-shooter.
+
+# Why is this game published here on GH?
+
+Everyone's build is different. Unity gives you a barebone while you can build on it. This build on github are able to be pushed yourself (clone and use gh pages) and play on my build while i update regularly.
+
 
